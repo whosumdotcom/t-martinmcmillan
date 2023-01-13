@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-13T00:00:03Z",
+  "IdClaims": [
+    {
+      "Claim": "t:martinmcmillan"
+    },
+    {
+      "Claim": "gh:martinmcmillan"
+    },
+    {
+      "Claim": "mdon:@martinmcmillan@social.snorklr.com"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "177ef7dd2b17ec4f782d9539",
+    "Timestamp": "2023-01-13T00:15:00Z",
+    "Signature": "9b6e714cb5268a7539f7d99808065d0736ce0e6116208d5d8d385dbc65d1428c3b001925eb2f4c66b47158b563a2c2f8b1ed01805e0e473e9f11fd53b21a4c3b517e2fab694d7bbca8f729761be04e88fa7370ef599557107b122e7a22ba2f5c9f1fe0780f47fce51355bebbb6fa607163196f18e97f385a725bab48acecd0e6460ee3394d26a0870ae5e0d1a5b193fb556d73192cdc85ae7e1d296d233493598fbf65d879a83a0b82f0dc6c68f637aa3ce771a788b3af5fb3dbd636db3e96bc3f15ce43effcb59f5484d82436c107974ed6b46a822841492b8a876ca1b9a813a8312c187c99e95e6ecfbf5fe3a634c10d5bc38fbf82e7339d9718023d44c518"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "83b1aaf1d7e728b4858ad981e7949e6d0cae3510bd705f277aec845f326833e1",
+  "ContentToHash": "v1|gh:martinmcmillan,mdon:@martinmcmillan@social.snorklr.com,med:no-account,pat:no-account,ss:no-account,t:martinmcmillan|2023-01-13T00:00:03Z"
+}
